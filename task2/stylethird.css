@@ -1,0 +1,88 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-transform: capitalize;
+}
+header{
+    background-image: url("cute\ pic4.jfif");
+    padding: 10px;
+    height: 300px;
+}
+li{
+    display: inline-block;
+    padding-right: 30px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    margin-top: 60px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(47, 10, 95);
+}
+.one{
+    margin-left: 42%;
+}
+.two{
+    margin-left: 8px;
+}
+button{
+    background-color: rgba(9, 105, 250, 0.932);
+    color: white;
+    border-radius: 2px;
+    border: none;
+    height: 24px;
+    width: 100px;
+    text-transform: capitalize;
+}
+main{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: small;
+}
+img{
+    margin: 10px;
+}
+h4{
+    height: max-content;
+    width: max-content;
+    margin-left: 600px;
+    position: absolute;
+    top: 160%;
+    right: 30%;
+}
+.par{
+    height: max-content;
+    width: max-content;
+    margin-left: 600px;
+    position: absolute;
+    top: 170%;
+    right: 20%;
+}
+.img{
+    margin-left: 155px;
+}
+.imgtwo{
+    margin-left: 820px;
+}
+.h4{
+    margin-left: 155px;
+    position: absolute;
+    top: 230%;
+    right: 65%;
+}
+.partwo{
+    margin-left: 155px;
+    position: absolute;
+    top: 240%;
+    right: 55%;
+}
